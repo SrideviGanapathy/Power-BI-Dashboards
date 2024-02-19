@@ -1,6 +1,6 @@
 # AdventureWorks Sales Dashboard #
 
-This Dashboard was created from one of Microsoft's sample databases: AdventureWorks 2022. AdventureWorks is a fictious bicycle and accessories manufacturing company selling its product across six countries in total in North America, Europe and Asia Pacific.
+This Power BI Dashboard was created from one of Microsoft's sample databases: AdventureWorks 2022. AdventureWorks is a fictious bicycle and accessories manufacturing company selling its product across six countries in total in North America, Europe and Asia Pacific. The database was hosted in SQL Server 2022 and was brought into Power BI using SQL queries.
 
 The goal of this dashboard is to shed light on the revenue and profit figures of the company, thereby delivering insights into what drives the company's earnings. The dashboard has two pages: Revenue analysis and Profit analysis.
 
