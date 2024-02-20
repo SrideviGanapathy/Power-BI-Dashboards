@@ -10,7 +10,7 @@ The goal of this dashboard is to shed light on the revenue and profit figures of
 
 * Analysing based on product subcategories, surprisingly, Jerseys ($57M) captured the highest revenue exceeding revenue from the primary product of the company: Bikes. The other top subcategories were: Roadbikes ($55M), Helmets ($53M), Caps ($50M) and Mountain bikes ($49M).
 
-* A monthly analysis of the revenue revealed two anomalies: An exceptionally high revenue of $8M in March 2014 and an exceptionally low revenue of $50K in June 2014. While high revenue is always welcome and could be due to promotional sales, sharp decline in revenue always needs careful attention to prevent the company from enduring irrecoverable losses. The anomalies were detected using the Power BI's analysis features for visuals.
+* A monthly analysis of the revenue revealed two anomalies: An exceptionally high revenue of $8M in March 2014 and an exceptionally low revenue of $54K in June 2014. While high revenue is always welcome and could be due to promotional sales, sharp decline in revenue always needs careful attention to prevent the company from enduring irrecoverable losses. The anomalies were detected using the Power BI's analysis features for visuals.
 
 ## Profit Analysis ##
 
