@@ -20,8 +20,8 @@ The goal of this dashboard is to shed light on the revenue and profit figures of
 
 * Product category wise profit establishes that Bikes are the most profitable products earning 85% of the total profit followed by accessories and components with 6% and 5% respectively.
 
-* Based on product subcategories, using the Key Influencers visual,road frames and jerseys were the least profitable and mountain bikes were found to be the most profitable. This shows that though jerseys have the highest revenue, they are being sold at the lowest margins and even with losses.
+* Based on product subcategories, using the Key Influencers visual, road frames and jerseys were the least profitable and mountain bikes were found to be the most profitable. This shows that though jerseys have the highest revenue, they are being sold at the lowest margins and even with losses.
 
 ## Conclusion ##
 
-This analysis of the company's financials though a wide variety of visauls in Power BI reveals eye-opening details which when used to make data-driven decisions can further boost the growth of the company.
+This analysis of the company's financials through a wide variety of visuals in Power BI reveals eye-opening details which when used to make data-driven decisions can further boost the growth of the company.
