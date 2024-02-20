@@ -10,7 +10,7 @@ Das Ziel dieses Dashboards ist es, die Umsatz- und Gewinnzahlen des Unternehmens
 
 * Bei der Analyse nach Produktunterkategorien überraschenderweise erzielten Jerseys ($57M) den höchsten Umsatz und übertrafen damit den Umsatz des Hauptprodukts des Unternehmens: Fahrräder. Die anderen Top-Unterkategorien waren: Roadbikes ($55M), Helmets ($53M), Caps ($50M) und Mountainbikes ($49M).
 
-* Eine monatliche Analyse des Umsatzes ergab zwei Anomalien: Ein außergewöhnlich hoher Umsatz von $8M im März 2014 und ein außergewöhnlich niedriger Umsatz von $50K im Juni 2014. Während hohe Umsätze immer willkommen sind und auf Werbeverkäufe zurückzuführen sein könnten, erfordert ein starker Umsatzrückgang immer eine sorgfältige Aufmerksamkeit, um das Unternehmen vor unwiederbringlichen Verlusten zu schützen. Die Anomalien wurden mit den Analysefunktionen von Power BI für Visuals erkannt.
+* Eine monatliche Analyse des Umsatzes ergab zwei Anomalien: Ein außergewöhnlich hoher Umsatz von $8M im März 2014 und ein außergewöhnlich niedriger Umsatz von $54K im Juni 2014. Während hohe Umsätze immer willkommen sind und auf Werbeverkäufe zurückzuführen sein könnten, erfordert ein starker Umsatzrückgang immer eine sorgfältige Aufmerksamkeit, um das Unternehmen vor unwiederbringlichen Verlusten zu schützen. Die Anomalien wurden mit den Analysefunktionen von Power BI für Visuals erkannt.
 
 ## Gewinnanalyse ##
 
