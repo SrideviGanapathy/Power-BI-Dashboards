@@ -10,13 +10,13 @@ Das Ziel dieses Dashboards ist es, die Umsatz- und Gewinnzahlen des Unternehmens
 
 * Bei der Analyse der jährlichen Umsatzzahlen hatte 2013 ($49M) den höchsten Umsatz, gefolgt von 2012 ($38M).
 
-* Die Darstellung der Umsätze in den Stores im Vergleich zu den Online-Umsätzen zeigt, dass der überwiegende Teil der Umsätze in den Stores erzielt wird (91 Mio. USD), verglichen mit den Online-Verkäufen (32 Mio. USD).
+* Die Darstellung der Umsätze in den Stores im Vergleich zu den Online-Umsätzen zeigt, dass der überwiegende Teil der Umsätze in den Stores erzielt wird ($91M), verglichen mit den Online-Verkäufen ($32M).
 
 * Nach Produktkategorien betrachtet, erzielen Bikes die höchsten Umsätze, und dies ist in allen Ländern gleich.
 
 * Bei der Analyse nach Produktunterkategorien überraschenderweise erzielten Jerseys ($57M) den höchsten Umsatz und übertrafen damit den Umsatz des Hauptprodukts des Unternehmens: Fahrräder. Die anderen Top-Unterkategorien waren: Roadbikes ($55M), Helmets ($53M), Caps ($50M) und Mountainbikes ($49M).
 
-* Eine monatliche Analyse des Umsatzes ergab zwei Anomalien: Ein außergewöhnlich hoher Umsatz von $8M im März 2014 und ein außergewöhnlich niedriger Umsatz von $54K im Juni 2014. Während hohe Umsätze immer willkommen sind und auf Werbeverkäufe zurückzuführen sein könnten, erfordert ein starker Umsatzrückgang immer eine sorgfältige Aufmerksamkeit, um das Unternehmen vor unwiederbringlichen Verlusten zu schützen. Die Anomalien wurden mit den Analysefunktionen von Power BI für Visuals erkannt.
+* Eine monatliche Analyse des Umsatzes ergab zwei Anomalien: Ein außergewöhnlich hoher Umsatz von $8M im März 2014 und ein außergewöhnlich niedriger Umsatz von $54K im Juni 2014. Während hohe Umsätze immer willkommen sind und auf Werbeverkäufe zurückzuführen sein könnten, erfordert ein starker Umsatzrückgang immer eine sorgfältige Aufmerksamkeit, um das Unternehmen vor unwiederbringlichen Verlusten zu schützen. Die Trendlinie zeigt einen stetigen Anstieg der Umsätze im Laufe der Zeit. Die Anomalien wurden mit den Analysefunktionen von Power BI für Visuals erkannt.
 
 ## Gewinnanalyse ##
 
