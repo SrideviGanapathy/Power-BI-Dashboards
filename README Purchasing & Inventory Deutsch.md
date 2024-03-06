@@ -8,11 +8,11 @@ Das Ziel dieses Dashboards ist es, Einblicke in die Einkaufs- und Bestandsdaten 
 
 * Die Datentabelle zeigt die Kreditwürdigkeit der Lieferanten (basierend auf ihrer Leistung), den Prozentsatz der Ablehnungen und die durchschnittliche Durchlaufzeit der einzelnen Lieferanten. Daraus lässt sich ein Überblick über die Qualität, die Geschwindigkeit und das Leistungsniveau der Lieferanten gewinnen.
 
-* Das Tortendiagramm zur Pünktlichkeit der Auftragserfüllung zeigt, dass mit Ausnahme eines kleinen Prozentsatzes von Bestellungen, die pünktlich oder verspätet waren, ein großer Teil der Bestellungen (99,86 %) frühzeitig, d. h. vor der erwarteten Lieferung, erfüllt wurde. Dies deutet darauf hin, dass die Lieferanten von AdventureWorks in Bezug auf die rechtzeitige Lieferung sehr zuverlässig sind.
+* Das Donut-Diagramm zur Pünktlichkeit der Auftragserfüllung zeigt, dass mit Ausnahme eines kleinen Prozentsatzes von Bestellungen, die pünktlich oder verspätet waren, ein großer Teil der Bestellungen (99,86 %) frühzeitig, d. h. vor der erwarteten Lieferung, erfüllt wurde. Dies deutet darauf hin, dass die Lieferanten von AdventureWorks in Bezug auf die rechtzeitige Lieferung sehr zuverlässig sind.
 
 * Bei der Analyse der Genauigkeit der Bestellmenge wurde festgestellt, dass 8,8 % der Bestellungen unvollständig waren, d. h. der Lieferant lieferte eine geringere Anzahl von Komponenten als bestellt. Unvollständige Bestellungen können zu unerwarteten Engpässen im Lagerbestand führen. Die Einkäufer können versuchen, diesen Prozentsatz durch Gespräche mit den Lieferanten und sorgfältige Überwachung zu minimieren.
 
-* Das Diagramm "Rückweisungsmenge und Rückweisungsprozentsatz" zeigt die Gesamtmenge der von den einzelnen Lieferanten zurückgewiesenen Komponenten und den Prozentsatz. Die höchsten Rückweisungsmengen stammen von SUPERSALES, Vision Cycles und Prosevare. Die höchsten Rückweisungsprozentsätze kamen von International (5,88 %), Anderson's Custom Bikes (5,38 %) und Signature Cycles (5,35 %). Diese Lieferanten müssen überwacht und dazu angehalten werden, ihre Qualitätskontrollen vor dem Versand zu verstärken.
+* Das Diagramm "Rückweisungsmenge und Rückweisungsprozentsatz" zeigt die Gesamtmenge der von den einzelnen Lieferanten zurückgewiesenen Komponenten und den Prozentsatz. Die höchsten Rückweisungsmengen stammen von SUPERSALES, Vision Cycles und Proseware. Die höchsten Rückweisungsprozentsätze kamen von International (5,88 %), Anderson's Custom Bikes (5,38 %) und Signature Cycles (5,35 %). Diese Lieferanten müssen überwacht und dazu angehalten werden, ihre Qualitätskontrollen vor dem Versand zu verstärken.
 
 * Der Status der Bestellungen zeigt, dass 92,36 % aller Bestellungen abgeschlossen sind und 5,39 % der Bestellungen noch ausstehen.
 
