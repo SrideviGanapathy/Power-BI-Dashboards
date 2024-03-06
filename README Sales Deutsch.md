@@ -6,7 +6,13 @@ Das Ziel dieses Dashboards ist es, die Umsatz- und Gewinnzahlen des Unternehmens
 
 ## Umsatzanalyse ##
 
-* Der Umsatz wurde zunächst nach Ländern analysiert, wobei sich zeigte, dass die USA ($70M) den größten Umsatz erzielen, gefolgt von Kanada ($18M), Australien ($11M) und den europäischen Ländern. Bei der Analyse der jährlichen Umsatzzahlen hatte 2013 ($49M) den höchsten Umsatz, gefolgt von 2012 ($38M).
+* Der Umsatz wurde zunächst nach Ländern analysiert, wobei sich zeigte, dass die USA ($70M) den größten Umsatz erzielen, gefolgt von Kanada ($18M), Australien ($11M) und den europäischen Ländern.
+
+* Bei der Analyse der jährlichen Umsatzzahlen hatte 2013 ($49M) den höchsten Umsatz, gefolgt von 2012 ($38M).
+
+* Die Darstellung der Umsätze in den Stores im Vergleich zu den Online-Umsätzen zeigt, dass der überwiegende Teil der Umsätze in den Stores erzielt wird (91 Mio. USD), verglichen mit den Online-Verkäufen (32 Mio. USD).
+
+* Nach Produktkategorien betrachtet, erzielen Bikes die höchsten Umsätze, und dies ist in allen Ländern gleich.
 
 * Bei der Analyse nach Produktunterkategorien überraschenderweise erzielten Jerseys ($57M) den höchsten Umsatz und übertrafen damit den Umsatz des Hauptprodukts des Unternehmens: Fahrräder. Die anderen Top-Unterkategorien waren: Roadbikes ($55M), Helmets ($53M), Caps ($50M) und Mountainbikes ($49M).
 
