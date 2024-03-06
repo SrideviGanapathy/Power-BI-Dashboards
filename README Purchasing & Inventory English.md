@@ -8,7 +8,7 @@ The goal of this dashboard is to provide insights into Purchasing and Inventory 
 
 * The data table indicates the supplier credit rating (based on their performance), rejection % and average lead time of each of the suppliers. From this visual, an overview of the quality, speed and performance level of the suppliers can be understood.
 
-* The timeliness of order fulfillment pie chart indicates that except for a fractional percentage of orders which were on-time or late, a huge portion of the orders (99.86%) was fulfilled early i.e (before expected delivery). This implies that AdventureWorks' suppliers are very relaible with respect to timely deliveries.
+* The timeliness of order fulfillment donut chart indicates that except for a fractional percentage of orders which were on-time or late, a huge portion of the orders (99.86%) was fulfilled early i.e (before expected delivery). This implies that AdventureWorks' suppliers are very reliable with respect to timely deliveries.
 
 * On analysing the accuracy of order quantity, 8.8% of the orders were found to be incomplete i.e, the supplier delivered lesser number of components than that was ordered. Incomplete orders can lead to unexpected shortages in inventory. Purchasing professionals can try to minimise this percentage through discussions with suppliers and careful monitoring.
 
