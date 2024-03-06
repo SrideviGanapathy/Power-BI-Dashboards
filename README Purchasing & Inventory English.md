@@ -1,4 +1,4 @@
-### AdventureWorks Purchasing & Inventory Analysis Dashboard
+# AdventureWorks Purchasing & Inventory Analysis Dashboard
 
 This Power BI Dashboard was created from one of Microsoft's sample databases: AdventureWorks 2022. AdventureWorks is a fictious bicycle and accessories manufacturing company selling its product across six countries in total in North America, Europe and Asia Pacific. The database was hosted in SQL Server 2022 and was brought into Power BI using SQL queries.
 
