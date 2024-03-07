@@ -18,7 +18,7 @@ The goal of this dashboard is to provide insights into Purchasing and Inventory 
 
 ## Inventory Analysis
 
-* Analysis of invnetory by the material type indicates that majority of the inventory value ($19M) is held by finished goods and raw materials occupies $9M in value.
+* Analysis of inventory by the material type indicates that majority of the inventory value ($19M) is held by finished goods and raw materials occupies $9M in value.
 
 * The current total inventory value was analysed to be $28.18M compared to the target of $33.66M . The target value was arrived at by calculating the inventory cost of maintaining all materials and products at the safety stock level. In this case, current inventory is lower than the target which is a good sign indicating the inventory is within optimal level.
 
