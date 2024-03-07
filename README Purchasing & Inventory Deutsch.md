@@ -1,4 +1,4 @@
-# AdventureWorks Purchasing and Inventory Analysis Dashboard
+# AdventureWorks Purchasing & Inventory Analysis Dashboard
 
 Dieses Power BI Dashboard wurde aus einer der Microsoft-Beispieldatenbanken erstellt: AdventureWorks 2022. AdventureWorks ist ein fiktives Unternehmen, das Fahrräder und Zubehör herstellt und seine Produkte in insgesamt sechs Ländern in Nordamerika, Europa und im asiatisch-pazifischen Raum verkauft. Die Datenbank wurde in SQL Server 2022 gehostet und mit Hilfe von SQL-Abfragen in Power BI eingebracht.
 
@@ -28,4 +28,8 @@ Das Ziel dieses Dashboards ist es, Einblicke in die Einkaufs- und Bestandsdaten 
 
 * Die Bestandswerttabelle zeigt den gesamten aktuellen Bestandswert jedes einzelnen Materials oder Produkts. Die Tabelle zeigt, dass HL Mountain Frame Black den höchsten Bestandswert hat (0,6 Mio. $).
 
-* 
+* Bei der Analyse des Vorratswertes nach Unterkategorien der Fertigerzeugnisse wiesen Road Bikes ($6,9 Mio.) den höchsten Vorratswert auf, gefolgt von Mountain Bikes ($4,8 Mio.) und Touring Bikes ($2,9 Mio.).
+
+## Fazit
+
+Dieses Dashboard bietet Einblicke in die Einkaufs- und Bestandsdaten des Unternehmens, die für die Fachleute des Einkaufs und der Supply Chain innerhalb des Unternehmens wertvoll sind, um die Kosten zu überwachen und die Materialverfügbarkeit für die Fertigung sicherzustellen.
