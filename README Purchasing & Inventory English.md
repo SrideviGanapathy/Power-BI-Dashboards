@@ -28,7 +28,7 @@ The goal of this dashboard is to provide insights into Purchasing and Inventory 
 
 * The inventory value table shows the total current inventory value of every individual material or product. The table indicates that HL Mountain Frame Black has the highest inventory value ($0.6M).
 
-* On analysing inventory value by the subactegory of finished goods, Road Bikes ($6.9M) had the highest inventory value followed by Mountain Bikes ($4.8M) and Touring Bikes ($2.9M).
+* On analysing inventory value by the subcategory of finished goods, Road Bikes ($6.9M) had the highest inventory value followed by Mountain Bikes ($4.8M) and Touring Bikes ($2.9M).
 
 ## Conclusion
 
