@@ -14,7 +14,7 @@ The goal of this dashboard is to provide insights into Purchasing and Inventory 
 
 * The rejected quantity and rejection % graph illustrates the total quantity of components rejected from each supplier and the percentage. The highest rejection quantities were from SUPERSALES, Vision Cycles and Proseware. The highest rejection percentages were from International (5.88%), Anderson's Custom Bikes (5.38%) and Signature Cycles (5.35%). These suppliers have to be monitored and encouraged to increase their quality checks before dispatch.
 
-* The purchase order status visual shows that 92.36% of all purchase orders have been completed and 5.39% of the the orders are pending.
+* The purchase order status visual shows that 92.36% of all purchase orders have been completed and 5.39% of the orders are pending for approval.
 
 ## Inventory Analysis
 
