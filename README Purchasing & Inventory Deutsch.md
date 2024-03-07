@@ -22,7 +22,7 @@ Das Ziel dieses Dashboards ist es, Einblicke in die Einkaufs- und Bestandsdaten 
 
 * Der aktuelle Gesamtwert der Vorräte wurde auf 28,18 Mio. $ analysiert, verglichen mit dem Zielwert von 33,66 Mio. $. Der Zielwert wurde durch Berechnung der Kosten ermittelt, die entstehen, wenn alle Materialien und Produkte auf dem Niveau des Sicherheitsbestandes gehalten werden. In diesem Fall ist der derzeitige Bestand niedriger als der Zielwert, was ein gutes Zeichen dafür ist, dass der Bestand innerhalb des optimalen Niveaus liegt.
 
-* Die Rohstofftabelle zeigt die von den Lieferanten gekauften Komponenten, die nachbestellt oder überwacht werden müssen. Die Komponenten, die unter den Nachbestellungspunkt gefallen sind, müssen nachbestellt werden (Sechskantmutter 1 und unterer Kopfring), und die Komponenten, die unter dem Sicherheitsbestand, aber über dem Nachbestellungspunkt liegen, müssen vom Einkaufsteam genau überwacht werden.
+* Die Rohstofftabelle zeigt die von den Lieferanten gekauften Komponenten, die nachbestellt oder überwacht werden müssen. Die Komponenten, die unter den Nachbestellungspunkt gefallen sind, müssen nachbestellt werden (Hex Nut 1 & Lower Head Race), und die Komponenten, die unter dem Sicherheitsbestand, aber über dem Nachbestellungspunkt liegen, müssen vom Einkaufsteam genau überwacht werden.
 
 * Die Analyse des Materialbestands ergab, dass insgesamt 363 Komponenten/Produkte einen ausreichenden Bestand aufweisen, 79 nachbestellt werden müssen und 62 überwacht werden müssen. Die 79 Komponenten, die nachbestellt werden müssen, bedürfen der sofortigen Aufmerksamkeit, um Probleme in der Supply Chain zu vermeiden.
 
